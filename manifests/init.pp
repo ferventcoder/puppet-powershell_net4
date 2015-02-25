@@ -1,3 +1,17 @@
+# == Class: powershell_net4
+#
+# This module ensures that a config file is created
+# next to PowerShell to ensure that it will use the
+# latest .NET framework available.
+#
+# === Authors
+#
+# Rob Reynolds <ferventcoder at gmail>
+#
+# === Copyright
+#
+# Copyright 2015 Rob Reynolds, unless otherwise noted.
+#
 class powershell_net4 {
   # based on the following:
   # - http://www.powershellmagazine.com/2012/06/11/adam-driscolls-favorite-powershell-tips-tricks/

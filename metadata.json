@@ -1,0 +1,37 @@
+{
+  "name": "ferventcoder-powershell_net4",
+  "version": "0.1.0",
+  "author": "ferventcoder",
+  "summary": "Ensure PowerShell uses .NET 4.x if available",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ferventcoder/puppet-powershell_net4",
+  "project_page": "https://github.com/ferventcoder/puppet-powershell_net4",
+  "issues_url": "https://github.com/ferventcoder/puppet-powershell_net4/issues",
+  "tags": [
+    "microsoft",
+    "windows",
+    "powershell",
+    ".NET Framework",
+    ".Net",
+    "dot_net"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2003",
+        "Server 2003 R2",
+        "Server 2008",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "dependencies": [
+
+  ]
+}
+
